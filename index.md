@@ -17,4 +17,4 @@ A partner and I created an ETL package for data on the COVID-19 pandemic, create
 A few projects working with SQL creating databases and managing them. I created many advanced queries and developed my skills with database programming.
 
 ## Resume
-![alt text](https://github.com/DLillard10UTM/DLillard10UTM.github.io-/blob/main/DLillardResume-1.png)
+![alt text](https://github.com/DLillard10UTM/DLillard10UTM.github.io-/blob/main/DLillardResume-1.png?raw=true)
